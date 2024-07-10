@@ -136,3 +136,48 @@ text-decoration: none;
     text-decoration: none;
     color: gray;
 }
+
+
+/* section my-insparation start */
+
+.my-insparation{
+    width: 1140px;
+    height: 100vh;
+   
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.my-insparation-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.Inspiration-title{
+    color: #0D1321;
+
+}
+
+.Inspiration-p{
+    color: gray;
+    margin-top: 15px;
+
+}
+
+.youtube-video{
+    width: 1140px;
+    padding: 30px 30px;
+    border: 2px solid #80808088;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
