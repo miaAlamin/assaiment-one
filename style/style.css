@@ -22,6 +22,7 @@ header{
     width: 998px;
     height: 481px;
     
+    
     position: absolute;
    top:80px;
    left: 170px;
@@ -57,4 +58,81 @@ color: wheat;
 border-radius: 8px;
 cursor: pointer;
 text-decoration: none;
+}
+
+
+/* main section start from here */
+
+
+.why-we-webdeveloper{
+    
+   
+    width: 1140px;
+    height: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 76px auto;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    
+}
+
+.Developer-title{
+    width: 80%;
+    height: 133px;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+   
+}
+.Developer-h2{
+    margin-bottom: 20px;
+
+}
+
+.Developer-content{
+    margin-top: 32px;
+    width: 80%;
+    justify-content: space-between;
+    display: flex;
+  background-color: #ffff;
+  border-radius: 5px;
+  padding: 20px 20px;
+  height: 240px;
+}
+
+/* .Developer-content .right-img{
+    width: 2px;
+    height: 217px;
+
+}
+.Developer-content .left-img{
+    width: 2px;
+    height: 217px;
+
+} */
+.Developer-content-title .Developer-h3{
+    color: #0D1321;
+    opacity: 0.7;
+    margin-bottom: 15px;
+}
+
+.Developer-p{
+    margin-bottom: 35px;
+    color: #0D1321;
+    
+}
+
+.learn-more{
+   
+    border: 2px solid gray;
+    padding: 10px 10px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: gray;
 }
