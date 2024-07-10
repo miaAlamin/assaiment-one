@@ -178,6 +178,104 @@ text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 48px;
+    border-radius: 20px 20px 20px 20px;
 
 
+}
+
+/* my-current-target start here */
+.my-current-target{
+
+    width: 1140px;
+    height:400px;
+   
+    margin: 151px auto;
+ 
+
+}
+.current-title-content{
+    text-align: center;
+    margin-top: 0px;
+    
+}
+.current-target-p{
+    color: gray;
+    margin-top: 12px;
+}
+.Html-content{
+    width: 364px;
+    height: 299px;
+    background-color: #ff4b1e7e;
+    padding: 30px;
+    
+
+}
+.sky-color{
+    background-color: rgba(135, 207, 235, 0.301);
+}
+.yeallow-color{
+    background-color: rgba(255, 255, 0, 0.521);
+}
+
+.lenguse-content{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+    margin-top: 30px;
+
+    
+}
+
+.languse-p{
+    margin-top: 15px;
+    color: gray;
+    margin-bottom: 15px;
+
+}
+.learnbtn{
+   margin-top: 20px;
+    color: black;
+}
+
+
+.buttom-img{
+    width: 1140px;
+    height: 313px;
+    border-radius: 10px;
+    border:1px solid green;
+    margin:auto;
+    background-image: url(/assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+.buttom-p{
+    margin-top: 20px;
+
+}
+.input{
+    padding:10px 10px;
+    border: none;
+    margin-top: 20px;
+}
+.submit{
+    padding:10px 10px;
+    border: none;
+    margin-top: 20px;
+}
+footer{
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    height: 30px;
+    margin:auto;
 }
