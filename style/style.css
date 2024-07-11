@@ -12,7 +12,7 @@
 header{
     width: full;
     height: 652px;
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url('/assets/Hero-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -244,7 +244,7 @@ text-decoration: none;
     height: 313px;
     border-radius: 10px;
     margin:auto;
-    background-image: url("/assets/handshake.jpg");
+    background-image: url('/assets/handshake.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
