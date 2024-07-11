@@ -206,16 +206,16 @@ text-decoration: none;
 .Html-content{
     width: 364px;
     height: 299px;
-    background-color: #ff4b1e7e;
+    background-color: #ff4b1e21;
     padding: 30px;
     
 
 }
 .sky-color{
-    background-color: rgba(135, 207, 235, 0.301);
+    background-color: #87cfeb25;
 }
 .yeallow-color{
-    background-color: rgba(255, 255, 0, 0.521);
+    background-color: #ffff0038;
 }
 
 .lenguse-content{
@@ -243,7 +243,6 @@ text-decoration: none;
     width: 1140px;
     height: 313px;
     border-radius: 10px;
-    border:1px solid green;
     margin:auto;
     background-image: url(/assets/handshake.jpg);
     background-repeat: no-repeat;
@@ -255,6 +254,9 @@ text-decoration: none;
     flex-direction: column;
     text-align: center;
     margin-bottom: 40px;
+    
+    
+    
     
 }
 .buttom-p{
@@ -276,6 +278,10 @@ footer{
     display: flex;
     justify-content: space-between;
     margin-top: 40px;
-    height: 30px;
+    height: 60px;
     margin:auto;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 0 20px;
 }
+
